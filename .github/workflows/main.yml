@@ -32,4 +32,3 @@ jobs:
       with:
         name: Brykanhorror-AI-APK
         path: bin/*.apk
-        
